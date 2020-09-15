@@ -1,5 +1,5 @@
 {
-    "name": "jamesmills/eloquent-uuid",
+    "name": "divdax/eloquent-uuid",
     "description": "A Laravel Eloquent Model trait for adding and using a uuid with models",
     "type": "package",
     "license": "MIT",
